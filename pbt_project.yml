@@ -12,21 +12,6 @@ buildSystemDetails:
   createdAt: '2023-03-29 12:41:30'
   modifiedAt: '2023-03-29 12:41:30'
 pipelines:
-  pipelines/P1:
-    name: P1
-    description: ''
-    author: kiranadmin@prophecy.io
-    mode: batch
-    artefactID: ''
-    language: python
-    createdAt: '2022-11-10 12:29:51'
-    modifiedAt: '2022-11-10 12:29:51'
-    datasets:
-      inputs:
-      - gitUri=http://gitserver:3000/wODndKW3_team_2120/bypX54Od_project_3252.git&subPath=&tag=HelloWorld/5&projectSubscriptionProjectId=3252&path=datasets/orders
-      outputs: []
-    subgraphs: []
-    dependencies: {}
   pipelines/P2:
     name: P2
     description: ''
